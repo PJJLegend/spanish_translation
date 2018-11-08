@@ -163,5 +163,9 @@
     "NAME": "Modificación Diaria",
     "DESCRIPTION": "Embárcate en una partida con 3 modificadores diarios aleatorios."
   }
+  "The Ending": {
+    "NAME": "El Final",
+    "DESCRIPTION": "Habilita el Acto Final."
+  }
 }
 
